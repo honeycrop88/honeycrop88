@@ -40,23 +40,31 @@ I thrive on solving complex problems, mentoring developers, and driving projects
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript" width="80" height="40"/>&nbsp;
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="PHP" alt="PHP" width="80" height="40"/>&nbsp;
 	<img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" title="Kotlin" alt="Kotlin" width="80" height="40"/>&nbsp;
+	<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" alt="Vercel" width="80" height="40"/>&nbsp;<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" title="Swift" alt="Swift" width="80" height="40"/>&nbsp;
+	<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" title="Vercel" alt="Vercel" width="90" height="40"/>&nbsp;
+	
 </div>
 
 ## 💼 Work Experience
+### Senior Web Developer. Geotab. Canada.
+- Led the development of scalable web applications using Node (Express) and React, achieving a 25% improvement in application load times through optimized code and resource management.
+- Spearheaded the migration from traditional MVC to a microservicebased architecture, increasing system reliability and reducing downtime.
+- Collaborated with frontend and backend teams to ensure seamless integration of UI components and backend logic.
+- Managed a team of 3 junior developers, conducted code reviews, and facilitated mentoring to improve development practices.
 
-### Lead Developer at AlphaCode Inc
-- Led the development of a full-stack application using React and FastAPI for a major client.
+### Junior Web Developer at Tehama. Canada
+- Designed and implemented interactive React components integrated with Laravel back-end systems, improving user engagement and satisfaction.
+- Enhanced database performance and reliability by optimizing MySQL queries and server-side processes.
+- Actively contributed to Agile sprints, performing detailed code reviews that improved application performance and debugging efficiency.
+- Launched and maintained a customer-facing portal, supporting over 5,000 active users.
 
-### Senior Software Engineer at FutureWorks Pte Ltd
-- Worked on the backend of an enterprise-level solution using Django and PostgreSQL.
-
-### Full Stack Developer at TechNova Solutions
-- Built customer-facing portals and integrated various third-party APIs.
-
-### Internship at NCS Group
+### Intern Developer. Plotly. Canada
 - Focused on web development using Vue.js, Laravel, and MySQL.
-
+- Developed and maintained responsive web applications using JavaScript frameworks and integrated various APIs.
+- Collaborated closely with senior developers to enhance user interfaces and optimize performance.
+- Identified and resolved critical bugs, ensuring smooth user experiences across web-based tools.
+- Contributed to code quality improvements through active participation in version control and code review processes.
 ## 📫 How to reach me
 
 - Email: honeycrop88@outlook.com
-- GitHub: ([https://github.com/justinlaub](https://honeycrop88.github.io/portfolio/)
+- GitHub: https://honeycrop88.github.io/portfolio/"
