@@ -1,4 +1,4 @@
-# Hi there, I'm Justin Laub 👋
+# Hi there, I'm Martel Vincent 👋
 
 Hi, my name is Martel Vincent, a passionate software developer with nearly a decade of experience in building scalable, user-friendly applications.
 I thrive on solving complex problems, mentoring developers, and driving projects to success ahead of schedule.
@@ -44,26 +44,6 @@ I thrive on solving complex problems, mentoring developers, and driving projects
 	<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" title="Vercel" alt="Vercel" width="90" height="40"/>&nbsp;
 	
 </div>
-
-## 💼 Work Experience
-### Senior Web Developer. Geotab. Canada.
-- Led the development of scalable web applications using Node (Express) and React, achieving a 25% improvement in application load times through optimized code and resource management.
-- Spearheaded the migration from traditional MVC to a microservicebased architecture, increasing system reliability and reducing downtime.
-- Collaborated with frontend and backend teams to ensure seamless integration of UI components and backend logic.
-- Managed a team of 3 junior developers, conducted code reviews, and facilitated mentoring to improve development practices.
-
-### Junior Web Developer at Tehama. Canada
-- Designed and implemented interactive React components integrated with Laravel back-end systems, improving user engagement and satisfaction.
-- Enhanced database performance and reliability by optimizing MySQL queries and server-side processes.
-- Actively contributed to Agile sprints, performing detailed code reviews that improved application performance and debugging efficiency.
-- Launched and maintained a customer-facing portal, supporting over 5,000 active users.
-
-### Intern Developer. Plotly. Canada
-- Focused on web development using Vue.js, Laravel, and MySQL.
-- Developed and maintained responsive web applications using JavaScript frameworks and integrated various APIs.
-- Collaborated closely with senior developers to enhance user interfaces and optimize performance.
-- Identified and resolved critical bugs, ensuring smooth user experiences across web-based tools.
-- Contributed to code quality improvements through active participation in version control and code review processes.
 ## 📫 How to reach me
 
 - Email: honeycrop88@outlook.com
