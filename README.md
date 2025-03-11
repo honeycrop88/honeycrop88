@@ -47,4 +47,3 @@ I thrive on solving complex problems, mentoring developers, and driving projects
 ## 📫 How to reach me
 
 - Email: honeycrop88@outlook.com
-- GitHub: https://honeycrop88.github.io/portfolio/"
