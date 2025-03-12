@@ -47,3 +47,4 @@ I thrive on solving complex problems, mentoring developers, and driving projects
 ## 📫 How to reach me
 
 - Email: honeycrop88@outlook.com
+- Gmail: honeycrop88@gmail.com
