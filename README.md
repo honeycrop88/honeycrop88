@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, my name is Martel Vincent, a passionate software developer with nearly a decade of experience in building scalable, user-friendly applications.
+Hi, a passionate software developer with nearly a decade of experience in building scalable, user-friendly applications.
 I thrive on solving complex problems, mentoring developers, and driving projects to success ahead of schedule.
 
 ## 🚀 About Me
